@@ -10,9 +10,14 @@ building, and linting processes, enhancing the app’s quality and streamlining 
 development 
 pipeline. Overall, the app is a solid educational tool with potential for expansion and increased maintainability through improved development practices.
 
-Youtube link:
+Youtube link:https://youtu.be/TauE-RKfQxc
+
+
 Github: https://github.com/Bayanda-Moabelo/QuizAppFinal.git
-Screenshots of the App:https://youtu.be/TauE-RKfQxc?si=ivXdhEQya__2RKxc
+
+
+Screenshots of the App:
+https://youtu.be/TauE-RKfQxc?si=ivXdhEQya__2RKxc
 ![Screenshot 2025-05-23 100659](https://github.com/user-attachments/assets/21fcc7ba-2cde-45cc-ac03-623c9a5f0bea)
 ![Screenshot 2025-05-23 100737](https://github.com/user-attachments/assets/80f4d757-0b42-4df8-a602-6c794f06f39e)
 ![Screenshot 2025-05-23 100747](https://github.com/user-attachments/assets/f22a0be1-eae6-4d8c-876c-10612738193c)
