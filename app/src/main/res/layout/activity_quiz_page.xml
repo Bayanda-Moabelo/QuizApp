@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:background="@drawable/ic_launcher_foreground"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".QuizPage">
+
+    <TextView
+        android:id="@+id/question_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="150dp"
+        android:text="Question:"
+        android:textAlignment="center"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/true_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="True"
+        />
+
+    <Button
+        android:id="@+id/false_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="False"
+        />
+
+    <Button
+        android:id="@+id/next_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="Next" />
+
+    <TextView
+        android:id="@+id/feedback_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:textAlignment="center"
+        android:textSize="25dp"
+        android:layout_marginBottom="20dp"
+        android:text="Feedback:"
+        />
+
+</LinearLayout>

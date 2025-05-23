@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:background="@drawable/ic_launcher_foreground"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".ReviewPage">
+
+    <Button
+        android:id="@+id/restart_button"
+        android:layout_marginTop="150dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="Restart"
+        />
+
+    <Button
+        android:id="@+id/exit_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="Exit" />
+
+    <TextView
+        android:id="@+id/review_text_view"
+        android:layout_width="342dp"
+        android:layout_height="536dp"
+        android:layout_marginBottom="20dp"
+        android:text="Results:"
+        android:textAlignment="center"
+        android:textSize="25dp" />
+
+</LinearLayout>
